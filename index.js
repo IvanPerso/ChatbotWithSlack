@@ -1,6 +1,5 @@
 const { RTMClient } = require('@slack/rtm-api');
 const fs = require('fs');
-
 const regex = new RegExp('/');  // eslint-disable-line
 const regex4 = new RegExp(' - ');  //eslint-disable-line
 let token = ""; // eslint-disable-line
