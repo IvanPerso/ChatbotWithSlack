@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=OSS-%20JBNU-%202022&fontSize=90)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=raichal2000&show_icons=true&theme=radical)
- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanPerso&show_icons=true&theme=radical) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyun4325&show_icons=true&theme=radical)
 
  # OSS-JBNU-2022
